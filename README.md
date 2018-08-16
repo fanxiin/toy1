@@ -1,3 +1,3 @@
-# This is a toy repository
+ This is a toy repository
 ===============
 test
